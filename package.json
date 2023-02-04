@@ -1,0 +1,8 @@
+{
+  "name": "jsdelivr-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ssistoza/jsdelivr-demo.git",
+  "author": "Shane Avery Sistoza <me@ssistoza.dev>",
+  "license": "MIT"
+}
